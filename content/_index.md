@@ -1,4 +1,3 @@
 +++
-author = "Anya Walsh"
+author = "Hugo Authors"
 +++
-
