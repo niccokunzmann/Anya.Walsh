@@ -1,25 +1,35 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
+description = "What you want to know about Anya Walsh"
+date = "2025-06-05"
+aliases = ["about-us", "about-anya", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## I'm Anya!
 
-Hugo makes use of a variety of open source projects including:
+![](/img/about-anya.jpg)
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I am a Temple Priestess, Sacred Sexuality, Somatic Embodiment & Women's work facilitator, Vocal Star Reiki Healer, Yoga Teacher, Ceremonial Dancer, Ceremonial Vocalist and Artist.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+My passions weave through in a variety of ways, I believe in full expression of life without apology. In power of expression channelled through our life force, Eros, to be expressed in creativity and sexuality that is felt in every moment, every sensation, every experience. 
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+I am extremely passionate about providing spaces that encourage empowering self on individual's own healing journey and giving the tools to do so, and encouraging methods and insights into cultivating our life force energy and the love that brings for self and all around and reigniting that power within us that has been shamed and suppressed, and regenerating energy within us for our better health, greater personal power, greater pleasure in all of life's experiences.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+I have been holding retreats and workshops for 5 years, collaborated with many talented facilitators across West Wales and Glastonbury, and holding workshops, yoga classes and Temples at festivals around the UK. Before this I travelled across the world for years on a journey of deep healing, gaining insights into the world and humanity, and self inquiry whilst acquiring skills and wisdom from multiple schools of the celtic isles and lands from across the seas.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Trainings
+
+Cuddle Facilitator Training (Training in Nervous system regulation, Polyvagal Theory, Child Developmental Trauma) with Eshana Spiers
+
+Intimacy Education with Caffyn Jesse
+
+Trained in Hatha Yoga, Pranayama, Yoga Nidra, Chakra yoga with Sivananda's 3rd generation disciple, Ashutosh
+
+Sound Therapy with Elaine Thompson
+
+Star Reiki Levels 1 & 2 with Lindsay Fairbairn and Estelle Gillingham
+
+Academy of Modern Tantra - Level 1 Breathwork, Trauma Release, Boundaries & Consent
+
+amongst many many more wonderful teachers and Mystery Schools that have fed into my life journey.

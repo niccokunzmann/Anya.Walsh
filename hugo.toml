@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
-title = "Tella"
-author = "username"
+baseURL = "https://example.com" # TODO
+title = "Anya Walsh"
+author = "Anya Walsh"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -25,29 +25,29 @@ enableRobotsTXT = true
 
   [params.logo]
     main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    alt = "Anya Walsh"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "Anya Walsh"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_description = "Anya Walsh -  Temple Priestess, Sacred Sexuality, Somatic Embodiment & Women's work facilitator, Vocal Star Reiki Healer, Yoga Teacher, Ceremonial Dancer, Ceremonial Vocalist and Artist"
+    meta_og_title = "Anya Walsh"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_og_url = "https://tella.pages.dev" # TODO
+    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png" # TODO
+    meta_og_description = "Anya Walsh -  Temple Priestess, Sacred Sexuality, Somatic Embodiment & Women's work facilitator, Vocal Star Reiki Healer, Yoga Teacher, Ceremonial Dancer, Ceremonial Vocalist and Artist."
     meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
+    meta_twitter_site = "@username" # TODO
+    meta_twitter_creator = "@username" # TODO
 
 [menu]
 
@@ -81,8 +81,8 @@ enableRobotsTXT = true
     url = "/"
       weight = 1
 
-  [[menu.footer]]
+  [[menu.footer]] # TODO
     name = "Github"
-    url = "https://github.com/opera7133/tella"
+    url = "https://github.com/niccokunzmann/Anya.Walsh"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2
