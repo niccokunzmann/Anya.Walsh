@@ -20,6 +20,10 @@ I have been holding retreats and workshops for 5 years, collaborated with many t
 
 ## Trainings
 
+The Field Trauma Informed Facilitator Training February - July 2025 (in progress)
+
+Tantric Massage Diploma February - May 2025 
+
 Cuddle Facilitator Training (Training in Nervous system regulation, Polyvagal Theory, Child Developmental Trauma) with Eshana Spiers
 
 Intimacy Education with Caffyn Jesse
