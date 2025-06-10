@@ -3,6 +3,14 @@
  You can change the article headings, fonts, colors, etc.
 */
 
+:root {
+    --primary-color: #8D0B41;
+    --secondary-color: #9F5255;
+    --accent-color:  #FBDB93;
+    --background-color: #FFF8E6;
+    --text-color: var(--primary-color);
+}
+
 img {
     width: 100%;
 }
