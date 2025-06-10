@@ -79,6 +79,7 @@ enableRobotsTXT = true
   [[menu.footer]]
     name = "Home"
     url = "/"
+    pre = '<i class="fa-solid fa-house"></i>'
       weight = 1
 
   [[menu.footer]]
