@@ -52,3 +52,7 @@ body {
 #overlay a {
     color: var(--background-color);
 }
+
+#mobileMenu {
+    flex: 1;    
+}
