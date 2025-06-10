@@ -11,4 +11,4 @@ Instagram @somarosa.sensual
 
 Email heartoftherosewales[@]gmail.com or please fill out the form below.
 
-{{< form >}}
+{{< email-contact-form >}}
