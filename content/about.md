@@ -6,11 +6,10 @@ aliases = ["about-us", "about-anya", "contact"]
 author = "Hugo Authors"
 +++
 
-## I'm Anya!
 
 ![](/img/about-anya.jpg)
 
-I am a Temple Priestess, Sacred Sexuality, Somatic Embodiment & Women's work facilitator, Vocal Star Reiki Healer, Yoga Teacher, Ceremonial Dancer, Ceremonial Vocalist and Artist.
+i'm Anya. I am a Temple Priestess, Sacred Sexuality, Somatic Embodiment & Women's work Space-holder, Vocal Reiki Healer, Yoga Teacher, Ceremonial Dancer, Sound Healing Practitioner and Artist.
 
 My passions weave through in a variety of ways, I believe in full expression of life without apology. In power of expression channelled through our life force, Eros, to be expressed in creativity and sexuality that is felt in every moment, every sensation, every experience. 
 
