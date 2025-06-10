@@ -21,7 +21,7 @@ enableRobotsTXT = true
   showBlog = false
   mainSections = [] # ['blog']
 
-  googleFonts = true
+  googleFonts = false
 
   [params.logo]
     main = "img/logo/logo.svg"
@@ -81,8 +81,27 @@ enableRobotsTXT = true
     url = "/"
       weight = 1
 
-  [[menu.footer]] # TODO
+  [[menu.footer]]
     name = "Github"
-    url = "https://github.com/niccokunzmann/Anya.Walsh"
+    url = "https://github.com/niccokunzmann/somarosa.co.uk"
     pre = "<i class='icon-github text-2xl'></i>"
+      weight = 10
+
+  [[menu.footer]]
+    name = "Instagram"
+    url = "https://www.instagram.com/somarosa.sensual/"
+    pre = "<i class='fa-brands fa-instagram'></i>"
       weight = 2
+
+  [[menu.footer]]
+    name = "Facebook"
+    url = "https://www.facebook.com/HeartoftheroseWales"
+    pre = "<i class='icon-facebook text-2xl'></i>"
+      weight = 3
+
+  [[menu.footer]]
+    name = "Email"
+    url = "mailto:heartoftherosewales@gmail.com"
+    pre = "<i class='icon-email text-2xl'></i>"
+      weight = 4
+
