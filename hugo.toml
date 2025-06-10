@@ -18,8 +18,8 @@ enableRobotsTXT = true
 
 [params]
 
-  showBlog = true
-  mainSections = ['blog']
+  showBlog = false
+  mainSections = [] # ['blog']
 
   googleFonts = true
 
