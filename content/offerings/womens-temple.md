@@ -1,41 +1,28 @@
 ---
+![](/img/womens-temple.jpg)
 title: "Womens Temple"
 date: 2025-06-05
 draft: false
 featured: true
 weight: 1
-description: We invite you to come into loving one another deeply through sensual touch that we crave and need, in the safety of Sisterhood, where we can share our sisterly love, sensuality and life force power. Our sensuality as women is powerful and magick, and we have been conditioned to suppress or shame it but it is our sensual nature with the wisdom of our womb that brings great power and knowing.
+description: As we enter the bosom of her Rose Temple, we journey to remember the ways we women used to honour, touch, love, celebrate one another in the ancient ways. 
+
+We hold the capacity to feel the delicious arousal in every part of our being, of the Divine Feminine that flows through us, through the portal of our womb... 
+We call for our body come alive in remembrance, reclaiming our sovereign current of eros... Our heart softly opening to deep receptivity of all life... We unravel the nuances of how the lines of sexuality and sensuality within sisterhod and lovers are not so black and white. 
+
+Together, we awaken the remembrance of who we truly are: goddess, priestess, well maiden, mother of creation, wise woman.
+In this mirror of eachother, you are reflected in all your archetypal power—erotic, innocent, powerful, radiant, and rooted.
+
+Our sensuality as women is powerful and magick, and we have been conditioned to suppress or shame it but it is our sensual nature with the wisdom of our womb that brings great power and knowing.
+Our sexuality as yoni-holders is a rich delicacy of feminine touch thats graced with the sacred current of eros that flows through our feminine essence. This divine energy connects us to each other, to the Earth, and to the Great Mysteries—inviting us to soften, to recieve, and to remember.
+
+
 ---
 
-We invite you to come into loving one another deeply through sensual touch that we crave and need, in the safety of Sisterhood, where we can share our sisterly love, sensuality and life force power. Our sensuality as women is powerful and magick, and we have been conditioned to suppress or shame it but it is our sensual nature with the wisdom of our womb that brings great power and knowing.
 
 ## Upcoming Women's Temples
 
-Her Body as the Rose Temple: Her Inner Lover
-
-👭Held in love & sensuality in our sisterhood 
-
-💕Witnessing in insecurity, in all of You, & Recieving love to your body
-🌸Meeting & finding pleasure with Your inner Lover
-💃 ﻿Finding your inner lovers' ﻿Sensual movement
-🔥Tuning into your Eros, your vocal sound, your breath
-🌼Orgasmic Breathwork
-❤️Heart sharing circle
-
-🥕Pot luck sharing lunch
-
- 
-
-Sunday 20 october
-10am - 5pm 
-
-
-The Wellness Centre, merythr Tydfil, cf48 2pg 
-£55pp. Early bird £44 (book before 18th Sept) 
-
-
-12 places 
-Contact Anya lovetemplewestwales@gmail.com to enquire or book your place
+See latest Events [here](https://dandelion.events/o/somarosa/events "")
 
 ## What will this bring into your life?
 
@@ -68,7 +55,3 @@ The dance with our inner lover, meeting her/them and fully embracing to be reuni
 - Open your vocal to sacral channel, opening your vocal expression, womb expression, and all the power, intuition, insight it beholds
 
 ​​
-
-​We release old stories, old beliefs, what no longer serves us - have it be held by sisters in its release, to be able to open that gateway that has been closed, and experience the love and pleasure that lies beyond it.
-Orgasmic Breathwork takes us on a journey, alike to conscious connected Breathwork journey, but opening our sacral to vocal channel and inviting Orgasmic breath and sound to enliven our journey on the ocean of emotion, sensation, pleasure, healing and release.
-How your body can experience the entire spectrum of joy, ecstasy, grief, renewal, pleasure, sadness, and whatever else may arise - all in a way that feels whole, beautiful and sacred in a space you are held.
