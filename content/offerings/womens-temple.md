@@ -1,11 +1,13 @@
 ---
-![](/img/womens-temple.jpg)
+
 title: "Womens Temple"
 date: 2025-06-05
 draft: false
 featured: true
 weight: 1
-description: As we enter the bosom of her Rose Temple, we journey to remember the ways we women used to honour, touch, love, celebrate one another in the ancient ways. 
+description: 
+![](/img/womens-temple.jpg)
+As we enter the bosom of her Rose Temple, we journey to remember the ways we women used to honour, touch, love, celebrate one another in the ancient ways. 
 
 We hold the capacity to feel the delicious arousal in every part of our being, of the Divine Feminine that flows through us, through the portal of our womb... 
 We call for our body come alive in remembrance, reclaiming our sovereign current of eros... Our heart softly opening to deep receptivity of all life... We unravel the nuances of how the lines of sexuality and sensuality within sisterhod and lovers are not so black and white. 
