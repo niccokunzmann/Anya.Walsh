@@ -63,41 +63,41 @@ enableRobotsTXT = true
     url = "/offerings/1-1-container/"
     weight = 10
 
-  [[menu.main]]
-    identifier = "offerings-2"
-    name = "Cwtch Connections"
-    url = "/offerings/cwtch-connections/"
-    weight = 11
-
-  [[menu.main]]
-    identifier = "offerings-3"
-    name = "Eros Embodiment Group"
-    url = "/offerings/eros-embodiment-group/"
-    weight = 13
-
-  [[menu.main]]
-    identifier = "offerings-4"
-    name = "Rose Temple"
-    url = "/offerings/rose-temple/"
-    weight = 14
-
-  [[menu.main]]
-    identifier = "offerings-5"
-    name = "Sacred Holding"
-    url = "/offerings/sacred-holding/"
-    weight = 15
-
-  [[menu.main]]
-    identifier = "offerings-6"
-    name = "Sacred Pleasure"
-    url = "/offerings/sacred-pleasure/"
-    weight = 16
-
-  [[menu.main]]
-    identifier = "offerings-7"
-    name = "Women's Temple"
-    url = "/offerings/womens-temple/"
-    weight = 17
+#  [[menu.main]]
+#    identifier = "offerings-2"
+#    name = "Cwtch Connections"
+#    url = "/offerings/cwtch-connections/"
+#    weight = 11
+#
+#  [[menu.main]]
+#    identifier = "offerings-3"
+#    name = "Eros Embodiment Group"
+#    url = "/offerings/eros-embodiment-group/"
+#    weight = 13
+#
+#  [[menu.main]]
+#    identifier = "offerings-4"
+#    name = "Rose Temple"
+#    url = "/offerings/rose-temple/"
+#    weight = 14
+#
+#  [[menu.main]]
+#    identifier = "offerings-5"
+#    name = "Sacred Holding"
+#    url = "/offerings/sacred-holding/"
+#    weight = 15
+#
+#  [[menu.main]]
+#    identifier = "offerings-6"
+#    name = "Sacred Pleasure"
+#    url = "/offerings/sacred-pleasure/"
+#    weight = 16
+#
+#  [[menu.main]]
+#    identifier = "offerings-7"
+#    name = "Women's Temple"
+#    url = "/offerings/womens-temple/"
+#    weight = 17
 
   [[menu.main]]
     identifier = "about"
@@ -111,7 +111,8 @@ enableRobotsTXT = true
     url = "/contact/"
     weight = 40
 
-  # Footer Menu
+  # ----------- Footer Menu -----------
+
   [[menu.footer]]
     name = "Home"
     url = "/"
