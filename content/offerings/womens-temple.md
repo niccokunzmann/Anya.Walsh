@@ -6,6 +6,8 @@ draft: true
 featured: true
 weight: 1
 description: 
+---
+
 ![](/img/womens-temple.jpg)
 
 As we enter the bosom of her Rose Temple, we journey to remember the ways we women used to honour, touch, love, celebrate one another in the ancient ways. 
