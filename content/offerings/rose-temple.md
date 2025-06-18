@@ -9,7 +9,7 @@ description: The Rose Temple is a ceremonially held shared journey where we meet
 
 ![](/img/rose-temple/slogan.avif)
 
-{{< image-section left=true image="/img/rose-temple/room.avif" alt="The rose temple" >}}
+{{< image-section left=false image="/img/rose-temple/room.avif" alt="The rose temple" >}}
 
 ## What is the The Rose Temple?
 

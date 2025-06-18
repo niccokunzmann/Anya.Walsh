@@ -83,6 +83,9 @@ body {
         width: 100%;
         aspect-ratio: 3 / 2;
     }
+    .image-section-right {
+        flex-direction: column-reverse;
+    }
 }
 
 img {
