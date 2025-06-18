@@ -1,0 +1,21 @@
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+        {{ range .Site.Data.slide }}
+        <div class="swiper-slide" data-swiper-autoplay="{{ default 6 .seconds }}000">
+            {{ if .image }}
+                <img src="{{ .image }}" alt="{{ .alt }}">
+            {{ end }}
+            {{ if .video }}
+                <video src="{{ .video }}" autoplay muted loop>
+                    <source src="{{ .video }}" type="video/mp4">
+                </video>
+            {{ end }}
+            <div class="s-fade-txt">
+                <h1 class="text-4xl {{ or .color "text-white" }}">{{ .title }}</h1>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+</div>
