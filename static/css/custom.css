@@ -137,7 +137,8 @@ header .title {
 }
 
 .swiper-slide .s-fade-txt {
-    top: 80%;
+    bottom: 0em;
+    top: unset;
     text-align: center;
     color: var(--text-color);
 }
