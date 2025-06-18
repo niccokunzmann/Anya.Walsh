@@ -107,3 +107,13 @@ img {
 .swiper-wrapper img {
     height: auto;
 }
+
+#mobileMenu .text-lg.lg:flex-grow {
+    height: 1em;
+    background-color: green;
+}
+
+header .title {
+    text-transform: uppercase;
+    text-align: center;
+}
