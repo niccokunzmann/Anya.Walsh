@@ -1,0 +1,30 @@
+{{ $var := "foo" }}
+{{ $left := .Get "left" }}
+{{ $alignment := "right" }}
+{{ if $left }}
+    {{ $alignment := "left" }}
+{{ end }}
+
+<div class="image-section image-section-{{ $alignment }}">
+
+    {{ if $left }}
+        <img src="{{ $.Get "image" | relURL }}" alt="{{ $.Get "alt" }}" class="section-image left-side"/>
+        <div class="section-content right-side">
+            {{ $.Inner | markdownify }}
+        </div>
+    {{ else }}
+        <div class="section-content left-side">
+            {{ $.Inner | markdownify }}
+        </div>
+        <img src="{{ $.Get "image" | relURL }}" alt="{{ $.Get "alt" }}" class="section-image right-side"/>
+    {{ end }}
+
+
+</div>
+
+{{/*  
+    Arguments:
+    - left: true/false
+    - image: image path
+    - alt: image alt
+*/}}

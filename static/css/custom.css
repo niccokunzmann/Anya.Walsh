@@ -8,7 +8,13 @@
     --secondary-color: #9F5255;
     --accent-color:  #FBDB93;
     --background-color: #9f3946;
-    --text-color: var(--primary-color);
+    --text-color: #ffcb86;
+    /* calculations */
+    --border-radius: 4px;
+}
+
+.prose {
+    --tw-prose-body: var(--text-color);
 }
 
 img {
@@ -32,16 +38,12 @@ input[type="url"], button {
     border-width: 2px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: var(--primary-color);
+h1, h2, h3, h4, h5, h6, .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
+    color: var(--text-color);
 }
 
-a {
-    color: var(--primary-color);
-}
-
-a:hover {
-    color: var(--secondary-color);
+.prose a, a, #mobileMenu a {
+    color: var(--accent-color);
 }
 
 body {
@@ -55,4 +57,49 @@ body {
 
 #mobileMenu {
     flex: 1;    
+}
+
+.image-section {
+    justify-content: space-between;
+    display: flex;
+    gap: 1em;
+}
+
+.left-side, .right-side {
+    display: inline-block;
+}
+
+.image-section .section-image {
+    width: 24rem;
+    object-fit: cover;
+}
+
+
+/* be default, we style the desktop. We override phone display. */
+
+@media (max-width: 1023px) {
+    .image-section {
+        flex-direction: column;
+    }
+    .image-section .section-image {
+        width: 100%;
+        aspect-ratio: 3 / 2;
+    }
+    .image-section-right {
+        flex-direction: column-reverse;
+    }
+}
+
+img {
+    border-radius: var(--border-radius);
+}
+
+
+.grid .summary {
+    height: 100%;
+}
+
+.border {
+    border-radius: var(--border-radius);
+    border-color: var(--secondary-color);
 }
