@@ -40,10 +40,10 @@ enableRobotsTXT = true
 
   [params.homepage_meta_tags]
     meta_description = "Anya Walsh -  Temple Priestess, Sacred Sexuality, Somatic Embodiment & Women's work facilitator, Vocal Star Reiki Healer, Yoga Teacher, Ceremonial Dancer, Ceremonial Vocalist and Artist"
-    meta_og_title = "Anya Walsh"
+    meta_og_title = "Somarosa"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev" # TODO
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png" # TODO
+    meta_og_url = "https://somarosa.co.uk"
+    meta_og_image = "https://somarosa.co.uk/img/link-preview.png" # TODO
     meta_og_description = "Anya Walsh -  Temple Priestess, Sacred Sexuality, Somatic Embodiment & Women's work facilitator, Vocal Star Reiki Healer, Yoga Teacher, Ceremonial Dancer, Ceremonial Vocalist and Artist."
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@username" # TODO
