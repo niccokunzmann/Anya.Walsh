@@ -103,3 +103,7 @@ img {
     border-radius: var(--border-radius);
     border-color: var(--secondary-color);
 }
+
+.swiper-wrapper img {
+    height: auto;
+}
