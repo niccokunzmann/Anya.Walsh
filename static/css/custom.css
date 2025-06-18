@@ -83,6 +83,10 @@ body, .content {
     object-fit: cover;
 }
 
+.section-content {
+    flex: 1;
+}
+
 
 /* be default, we style the desktop. We override phone display. */
 
