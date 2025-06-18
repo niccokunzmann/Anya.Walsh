@@ -8,7 +8,12 @@
     --secondary-color: #9F5255;
     --accent-color:  #FBDB93;
     --background-color: #9f3946;
-    --text-color: var(--primary-color);
+    --text-color: #ffcb86;
+    /* calculations */
+}
+
+.prose {
+    --tw-prose-body: var(--text-color);
 }
 
 img {
@@ -32,16 +37,12 @@ input[type="url"], button {
     border-width: 2px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: var(--primary-color);
+h1, h2, h3, h4, h5, h6, .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
+    color: var(--text-color);
 }
 
-a {
-    color: var(--primary-color);
-}
-
-a:hover {
-    color: var(--secondary-color);
+.prose a, a, #mobileMenu a {
+    color: var(--accent-color);
 }
 
 body {
@@ -90,4 +91,9 @@ body {
 
 img {
     border-radius: 4px;
+}
+
+
+.grid .summary {
+    height: 100%;
 }
