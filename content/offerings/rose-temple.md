@@ -7,30 +7,22 @@ weight: 1
 description: The Rose Temple is a ceremonially held shared journey where we meet in heart, in desire, in pleasure, in emotion, in vulnerability, in connection, in the intimacy of all that arises in sacred space.  The Rose holds us in her heart, taking us on a journey to witness our own and others true essence, and in connection with our hearts and loving consensual touch. 
 ---
 
-![](/img/rose-temple.avif)
+![](/img/rose-temple/slogan.avif)
 
-What is the The Rose Temple?
+{{< image-section left=true image="/img/rose-temple/room.avif" alt="The rose temple" >}}
+
+## What is the The Rose Temple?
 
 The Rose Temple is a ceremonially held shared journey where we meet in heart, in desire, in pleasure, in emotion, in vulnerability, in connection, in the intimacy of all that arises in sacred space.  The Rose holds us in her heart, taking us on a journey to witness our own and others true essence, and in connection with our hearts and loving consensual touch. 
 
-​
-
 The Rose embodies unfolding the delicacy of our pleasure, emotion, our desires, our boundaries, our vulnerabilities, our challenges, our pleasure, our expression. And it is a gentle slow unfurling, at a different pace for each individual for where you're at in your journey. 
-
-​
 
 This is a deeply healing transformational journey that ignites more power, courage, self-assurance and expression into your life in many ways. Our sexual expression that has been repressed is our life force, which is entwined with our creative expression which is our natural flowing expressive energy in many more ways than a paintbrush on paper. It connects us to the core of our being, the core of all nature, there is a power and mystery that unfolds that ia greater than the human mind can comprehend. 
 
-​
-
 Within the exploration of deep sensuality arises sexual energy, and this is a beautiful and natural element of our being - it is our life force, our very power that drives us, ignites our passion and our souls. We welcome the beauty it carries whilst welcoming for that energy to flow into our entire being to not be limited to our sacral or genitalia.​
 
-​
-
-We invite in our pleasure in deeper ways to a richer and fuller experience first by accepting ourselves as sexual beings to realise that everything in life is sex, as we recognise everything is enveloped in our life force energy, our sexual energy, so that every breath, every sound, every movement, every sensation is a pleasurable intimate dance with our inner lover. We open our pleasure and sensations to allow this experience to unfold in the The Rose Temple to invite this more into our daily lives. 
-
-​
----
+We invite in our pleasure in deeper ways to a richer and fuller experience first by accepting ourselves as sexual beings to realise that everything in life is sex, as we recognise everything is enveloped in our life force energy, our sexual energy, so that every breath, every sound, every movement, every sensation is a pleasurable intimate dance with our inner lover. We open our pleasure and sensations to allow this experience to unfold in the The Rose Temple to invite this more into our daily lives.
+{{< /image-section  >}}
 
 > "It surprised me how open and vulnerable I felt able to be, completely opening to the love and sensation and how strange how completely normal this feels and then how abnormal it makes out there in the world"
 

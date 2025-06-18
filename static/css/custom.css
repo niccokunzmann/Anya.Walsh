@@ -56,3 +56,35 @@ body {
 #mobileMenu {
     flex: 1;    
 }
+
+.image-section {
+    justify-content: space-between;
+    display: flex;
+    gap: 1em;
+}
+
+.left-side, .right-side {
+    display: inline-block;
+}
+
+.image-section .section-image {
+    width: 24rem;
+    object-fit: cover;
+}
+
+
+/* be default, we style the desktop. We override phone display. */
+
+@media (max-width: 1023px) {
+    .image-section {
+        flex-direction: column;
+    }
+    .image-section .section-image {
+        width: 100%;
+        aspect-ratio: 3 / 2;
+    }
+}
+
+img {
+    border-radius: 4px;
+}
