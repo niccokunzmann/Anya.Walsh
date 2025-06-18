@@ -9,6 +9,8 @@
     --accent-color:  #FBDB93;
     --background-color: #9f3946;
     --text-color: #ffcb86;
+    --text-font: 'Mories','Montserrat','Noto Sans JP',sans-serif;
+    --accent-font: 'NEVOCLARA','Mories','Montserrat','Noto Sans JP',sans-serif;
     /* calculations */
     --border-radius: 4px;
 }
@@ -40,6 +42,8 @@ input[type="url"], button {
 
 h1, h2, h3, h4, h5, h6, .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
     color: var(--text-color);
+    font-family: var(--accent-font);
+
 }
 
 .prose a, a, #mobileMenu a {
@@ -49,6 +53,11 @@ h1, h2, h3, h4, h5, h6, .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .
 body {
     background-color: var(--background-color);
     color: var(--text-color);
+}
+
+body, .content {
+    font-family: var(--text-font);
+
 }
 
 #overlay a {
@@ -116,6 +125,7 @@ img {
 header .title {
     text-transform: uppercase;
     text-align: center;
+    font-family: var(--accent-font);
 }
 
 .swiper-button-prev::after, .swiper-container-rtl, .swiper-button-next::after {
@@ -127,4 +137,23 @@ header .title {
     text-align: center;
     color: var(--text-color);
 }
+
+@font-face {
+    font-family: 'Mories';
+    src: url('fonts/Mories.woff2') format('woff2'),
+        url('fonts/Mories.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NEVOCLARA';
+    src: url('fonts/NEVOCLARA.woff2') format('woff2'),
+        url('fonts/NEVOCLARA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 
