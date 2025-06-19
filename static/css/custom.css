@@ -130,6 +130,7 @@ header .title {
     text-transform: uppercase;
     text-align: center;
     font-family: var(--accent-font);
+    font-size: 4.8em;
 }
 
 .swiper-button-prev::after, .swiper-container-rtl, .swiper-button-next::after {
@@ -141,6 +142,15 @@ header .title {
     top: unset;
     text-align: center;
     color: var(--text-color);
+    background: rgba(1, 1, 1, 0.1);
+    border-radius: var(--border-radius);
+}
+
+@media (max-width: 433px) {
+    .swiper-slide .s-fade-txt {
+        top: 50%;
+        bottom: auto;
+    }
 }
 
 @font-face {
@@ -161,4 +171,6 @@ header .title {
     font-display: swap;
 }
 
-
+nav .logo {
+    height: 6rem;
+}
