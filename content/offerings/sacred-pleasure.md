@@ -5,6 +5,7 @@ draft: false
 featured: true
 weight: 1
 description: Held containers for your journey in opening, deepening, exploring greater love, sexual expression, safety, trust, connection, pleasure, emotion, self-worth, personal power....​​
+banner: sacred-pleasure-banner.jpg
 ---
 
 
