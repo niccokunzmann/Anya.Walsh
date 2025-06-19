@@ -23,7 +23,7 @@ Dropping into your inner world, learning to listen to the body's subtle messages
 
 ## Expression
 
-content
+There are many ways to express ourselves, we explore those that are offered from the core of our being, our inner child's desires, our animal body expression, our eros wild and alive, free to express. 
 
 {{< /image-section >}}
 
@@ -31,7 +31,7 @@ content
 
 ## Connection
 
-content
+We connect in heart, setting down the masks we carry in the outside world to see and be seen at soul level. When we connect from this space, our hearts and bodies are deeply enriched.
 
 {{< /image-section >}}
 
