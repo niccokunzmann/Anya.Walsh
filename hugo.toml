@@ -122,7 +122,8 @@ enableRobotsTXT = true
   [[menu.footer]]
     name = "Github"
     url = "https://github.com/niccokunzmann/somarosa.co.uk"
-    pre = "<img class='text-2xl' src='https://img.shields.io/github/actions/workflow/status/niccokunzmann/somarosa.co.uk/hugo.yml?branch=main&style=flat&logo=github'/>"
+    pre = "<i class='fa-brands fa-github'></i>"
+#    pre = "<img class='text-2xl' src='https://img.shields.io/github/actions/workflow/status/niccokunzmann/somarosa.co.uk/hugo.yml?branch=main&style=flat&logo=github'/>"
       weight = 10
 
   [[menu.footer]]
