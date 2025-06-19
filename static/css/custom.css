@@ -9,8 +9,8 @@
     --accent-color:  #FBDB93;
     --background-color: #9f3946;
     --text-color: #ffcb86;
-    --text-font: 'Mories','Montserrat','Noto Sans JP',sans-serif;
-    --accent-font: 'NEVOCLARA','Mories','Montserrat','Noto Sans JP',sans-serif;
+    --text-font: 'Soligant','Montserrat','Noto Sans JP',sans-serif;
+    --accent-font: 'TAN-PEARL','NEVOCLARA','Montserrat','Noto Sans JP',sans-serif;
     /* calculations */
     --border-radius: 4px;
 }
@@ -48,6 +48,7 @@ h1, h2, h3, h4, h5, h6, .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .
 
 .prose a, a, #mobileMenu a {
     color: var(--accent-color);
+    font-family: var(--accent-font);
 }
 
 body {
@@ -128,9 +129,8 @@ img {
 
 header .title {
     text-transform: uppercase;
-    text-align: center;
     font-family: var(--accent-font);
-    font-size: 4.8em;
+    font-size: 3.8em;
 }
 
 .swiper-button-prev::after, .swiper-container-rtl, .swiper-button-next::after {
@@ -142,8 +142,10 @@ header .title {
     top: unset;
     text-align: center;
     color: var(--text-color);
-    background: rgba(1, 1, 1, 0.1);
-    border-radius: var(--border-radius);
+    /* background: rgba(1, 1, 1, 0.1);
+    border-radius: var(--border-radius); */
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
 }
 
 @media (max-width: 433px) {
@@ -170,6 +172,25 @@ header .title {
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'TAN-PEARL';
+    src: url('fonts/TAN-PEARL-Regular.woff2') format('woff2'),
+        url('fonts/TAN-PEARL-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Soligant';
+    src: url('fonts/Soligant.woff2') format('woff2'),
+        url('fonts/Soligant.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 
 nav .logo {
     height: 6rem;
