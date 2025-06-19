@@ -3,9 +3,9 @@ author: "Anya Walsh"
 title: "Somarosa"
 ---
 
-{{< image-section left=true image="/img/slide/01-frontpage.png" alt="" >}}
+{{< image-section left=true image="/img/embodiment.jpeg" alt="" >}}
 
-## Section 1
+## Sensuality
 
 content
 
@@ -13,7 +13,7 @@ content
 
 {{< image-section left=false image="/img/slide/02-frontpage.png" alt="" >}}
 
-## Section 2
+## Embodiment
 
 content
 
@@ -21,7 +21,7 @@ content
 
 {{< image-section left=true image="/img/slide/03-frontpage.png" alt="" >}}
 
-## Section 3
+## Expression
 
 content
 
@@ -29,7 +29,7 @@ content
 
 {{< image-section left=false image="/img/slide/04-frontpage.png" alt="" >}}
 
-## Section 4
+## Connection
 
 content
 
