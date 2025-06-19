@@ -174,3 +174,17 @@ header .title {
 nav .logo {
     height: 6rem;
 }
+
+.mopen span {
+    background: var(--text-color);
+}
+
+.copy, footer {
+    background-color: var(--secondary-color);
+}
+
+
+.scroll-top {
+    color: var(--background-color);
+    background-color: var(--accent-color);
+}
