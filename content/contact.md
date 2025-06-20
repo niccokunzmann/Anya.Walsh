@@ -2,7 +2,6 @@
 title: 'Contact'
 banner: hands-contact.jpg
 ---
-![](/img/hands-contact.jpg)
 
 To keep up to date on all events you can subscribe to my Dandelion page where all in person and online events are posted here [dandelion.events/o/somarosa](https://dandelion.events/o/somarosa).
 
