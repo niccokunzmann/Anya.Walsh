@@ -1,5 +1,5 @@
 ---
-title: "Online 1-1 Container"
+title: "Your 1-1 Container"
 date: 2025-06-05
 draft: false
 featured: true
@@ -24,7 +24,20 @@ Supporting your journey into your pleasure with embodiment, supported self-holdi
 
 -
 
-Breathwork, Sound, Movement, Embodiment, Energy Alchemy underpinned by Nervous System Regulation
+## Sacred Pleasure 1-1
+
+When we are truly tuned into our eros, our life force, we are truly in tune with ourselves, all that we are, and all of life. It is the full embrace of our sexuality, and as innately sexual beings, we are made of sex. Sex is our life force that runs through the entirety of our being. To suppress it, shame it, is to suppress all of who we are.
+
+Find out more about our Sacred Pleasure Containers [here](https://somarosa.co.uk/offerings/sacred-holding/ "")
+
+## Sacred Holding 1-1
+Held container for your journey in opening, deepening, exploring greater love, sexual expression, safety, trust, connection, pleasure, emotion, self-worth, personal power...
+
+Find out more about Sacred Holding Containers [here](https://somarosa.co.uk/offerings/sacred-holding/ "")
+
+## Online 1-1
+
+Held Container online to empower your pleasure and support your nervous system. Working with Breathwork, Sound, Movement, Embodiment, Energy Alchemy to activate your sacred life force underpinned by Nervous System Regulation
 
 ![](/img/1-1-2.avif)
 
