@@ -3,7 +3,7 @@ author: "Anya Walsh"
 title: "Somarosa"
 ---
 
-{{< image-section left=true image="/img/homepage-1.jpeg" alt="" >}}
+{{< image-section left=true image="/img/homepage-1.jpg" alt="" >}}
 
 ## Sensuality
 
@@ -27,7 +27,7 @@ There are many ways to express ourselves, we explore those that are offered from
 
 {{< /image-section >}}
 
-{{< image-section left=false image="/img/homepage2" alt="" >}}
+{{< image-section left=false image="/img/homepage2.jpg" alt="" >}}
 
 ## Connection
 
