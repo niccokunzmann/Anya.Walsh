@@ -4,6 +4,7 @@ date: 2025-06-05
 draft: false
 featured: true
 weight: 1
+banner: cuddle-connections-banner.jpg
 description: Come for a Cwtch, and receive connection, love, safety, nourishment, oxytocin and SO much more that will only be understood once you experience it...
 ---
 
