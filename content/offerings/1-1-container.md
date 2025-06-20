@@ -9,9 +9,12 @@ description: Each container is unique, because each person and their journey is 
 
 ## What will we discover in your Journey?
 
+{{< image-section left=true image="/img/homepage4.jpg" alt="" >}}
+
 Each container is unique, because each person and their journey is different. Each person's body speaks a different story. And we give space for the body to speak its story, to listen, and how to understand the messages of what's needed, what's desired. 
 
-![](/img/1-1-1.avif)
+{{< /image-section >}}
+
 
 ## Your Journey
 ## Your Body
