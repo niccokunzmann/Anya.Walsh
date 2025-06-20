@@ -19,7 +19,7 @@ Dropping into your inner world, learning to listen to the body's subtle messages
 
 {{< /image-section >}}
 
-{{< image-section left=true image="/img/homepage3.jpg" alt="" >}}
+{{< image-section left=true image="/img/embodiment3.jpg" alt="" >}}
 
 ## Expression
 
