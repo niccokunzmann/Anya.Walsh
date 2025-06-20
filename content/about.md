@@ -4,6 +4,7 @@ description = "What you want to know about Anya Walsh"
 date = "2025-06-05"
 aliases = ["about-us", "about-anya", "contact"]
 author = "Hugo Authors"
+banner = about-banner.jpg
 +++
 
 
