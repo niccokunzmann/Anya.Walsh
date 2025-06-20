@@ -4,6 +4,7 @@ date: 2025-06-05
 draft: false
 featured: true
 weight: 1
+banner: held-container-banner.jpg
 description: Each container is unique, because each person and their journey is different. Each person's body speaks a different story. And we give space for the body to speak its story, to listen, and how to understand the messages of what's needed, what's desired. 
 ---
 
