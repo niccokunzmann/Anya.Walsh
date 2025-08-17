@@ -14,6 +14,8 @@ description: The Rose Temple is a ceremonially held shared journey where we meet
 
 The Rose Temple is a ceremonially held shared journey where we meet in heart, in desire, in pleasure, in emotion, in vulnerability, in connection, in the intimacy of all that arises in sacred space.  The Rose holds us in her heart, taking us on a journey to witness our own and others true essence, and in connection with our hearts and loving consensual touch. 
 
+The Rose Temple is a unique offeing, with it's foundation embedded in awareness, listening and responding to your nervous system. The space is guided with care and gentleness to support you to listen to what's arising for you, and within this holding feeling more able to respond to your needs. 
+
 The Rose embodies unfolding the delicacy of our pleasure, emotion, our desires, our boundaries, our vulnerabilities, our challenges, our pleasure, our expression. And it is a gentle slow unfurling, at a different pace for each individual for where you're at in your journey. 
 
 This is a deeply healing transformational journey that ignites more power, courage, self-assurance and expression into your life in many ways. Our sexual expression that has been repressed is our life force, which is entwined with our creative expression which is our natural flowing expressive energy in many more ways than a paintbrush on paper. It connects us to the core of our being, the core of all nature, there is a power and mystery that unfolds that ia greater than the human mind can comprehend. 
@@ -44,7 +46,7 @@ The Gables, Roman Way, Glastonbury
 
 See more information here: [Heart, Soul & Eros Emergence: Sleepover Weekend · Dandelion](https://dandelion.events/e/x3dte)
 
-![](/img/rose-inquire.avif)
+![](/img/tantra-workshop.jpg)
 
 ## All of you is welcome 
 
@@ -59,72 +61,43 @@ There is guided practices to introduce boundaries and consent and how to engage 
 ​
 
 Why come to a Temple? 
-
-- If youre craving more physical contact, more love, more connection
-
-- Experience the complete unconditional love in a hug or to gaze deeply into the eyes, the windows of our soul, of another being and feel seen whilst seeing another with masks
-
-- to connect deeply to others desiring connection in boundaried, safe, loving consensual touch. 
-
-- to Learn to feel into our boundaries and desires and how to express them 
-
- - Feeling into what emotions arise and moving through, healing them within a safe container
-
-- Discover your sensual nature deeper 
-
- - Learn how to fully drop into Recieving and how to ask for what you want 
-
-- Coming fully into the pleasure of giving pleasurable touch with full loving compassion
+You are committed to your unfolding of yourself, your path in sexuality & living in alignment with your life force truth
+You desire deeper connection to your sexuality   
+You desire to feel empowered, expanded & whole in sexuality with yourself & with others
+You desire to feel amongst like-minded people who want this too, to connect to your soul & eros tribe
 
  
 
- 
 
-Also featuring live acoustic music, beautiful handpan & shamanic sounds 
 
 ----
 
 Each Temple is entirely different, you will never have the same experience twice, even if you came to every single Temple. But a typical structure of our Temple of Love looks like this:
 
-Agreements for creating a safe container
+- Agreements for creating a safe container
 
-Opening Ritual, opening into sounds and movement of our sensual being
+- Opening Ritual, opening into sounds and movement of our sensual being
 
-- Walkabout connection games
+- Self connection, self-love & nervous system resourcing practices 
 
-- Exercises for learning & establishing Boundaries & Consent
+- Exercises for embodied listening of your Boundaries & Consent
 
 - Facilitated exercises for connection in physical contact or energetic (option for non-physical contact), opening our sensual experience 
 
-- Full circle check in 
 
-- Deeper, richer exercises dropping deeper into our embodied experience 
+- Opening to free space - where we integrate and explore what we have learnt so far with others. Emotional support available from facilitators & assistants. 
 
-- Opening to free space - check in beforehand and establishing boundaries & how to take care of yourself and others.
+- Closing circle, integration, aftercare 
 
-- Closing circle, integration, aftercare & expression of words and sounds to close our experience individually and as a collective
-
-​
-
-Held in a new beautiful wooden cabin with gorgeous views for our evening Temple for a nourishing cosy safe container
-
-​
-
-This is a clothing optional space as our human bodies are beautiful and we wish to welcome and celebrate our bodies. However for holding a safe container, we hold a boundary of this being a pants on space (all genders) for ensuring no skin to skin genital contact. It is non-penetrative space in any means of penetrating genitals so this pants on boundary enables that an easy way to hold that safely for everyone. Full nudity is allowed within sauna/hot tub experiences where that contained experience is a non-sexual space. 
-
-Come however makes you feel most comfortable and empowered, whether that is casual clothing, sexy clothing, smart clothing, underwear - it is all beautiful
 
  
 
 This event is open for individuals, couples, lovers, friends, female bodied, male bodied, non-binary/other-gender bodied. 
 
  
-
-We'd like this to be available for all, get in touch if you feel called. 
-
 ​
 
-To book your place or If you have questions please contact myself at: lovetemplewestwales@gmail.com or 07443443868
+To book your place or If you have questions please contact myself at: heartoftherosewales@gmail.com 
 
 ​----
 
@@ -134,7 +107,7 @@ Key information for your safety
 
 This is a sober space, please do not consume drugs or alcohol before or during this event, it is important for everyone to be in full sober awareness of their bodily experience
 
-This is a trauma aware space, facilitators and spaceholders assisting are available to support your needs during exercises and free space. It is your responsibility to take care of yourself - that includes seeking support when support or sitting out of exercises when needed. We use cards to signal if you need support, often we know we need something but it's hard to find what so given these options supports to finding what feels right when something is triggered
+This is a trauma informed space, facilitators and spaceholders assisting are available to support your needs during exercises and free space. It is your responsibility to take care of yourself - that includes seeking support when support or sitting out of exercises when needed. We use cards to signal if you need support, often we know we need something but it's hard to find what so given these options supports to finding what feels right when something is triggered
 
 
 ----
