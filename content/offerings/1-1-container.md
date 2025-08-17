@@ -10,12 +10,7 @@ description: Each container is unique, because each person and their journey is 
 
 ## What will we discover in your Journey?
 
-{{< image-section left=true image="/img/homepage4.jpg" alt="" >}}
-
 Each container is unique, because each person and their journey is different. Each person's body speaks a different story. And we give space for the body to speak its story, to listen, and how to understand the messages of what's needed, what's desired. 
-
-{{< /image-section >}}
-
 
 ## Your Journey
 ## Your Body
@@ -27,7 +22,7 @@ Supporting your journey into your pleasure with embodiment, supported self-holdi
 
 
 
-{{< image-section left=true image="/img/page-banners/sacred-pleasure-banner.jpg" alt="" >}}
+{{< image-section left=true image="/img/homepage-1.jpg" alt="" >}}
 ## Sacred Pleasure 1-1
 
 Each container is unique, because each person and their journey is different. Each person's body speaks a different story. And we give space for the body to speak its story, to listen, and how to understand the messages of what's needed, what's desired. 
@@ -38,19 +33,18 @@ When we are truly tuned into our eros, our life force, we are truly in tune with
 Find out more about our Sacred Pleasure Containers [here](https://somarosa.co.uk/offerings/sacred-holding/ "")
 {{< /image-section >}}
 
-{{< image-section left=false image="/img/page-banners/sacred-holding-banner.jpg" alt="" >}}
+{{< image-section left=false image="/img/embodiment2.jpg" alt="" >}}
 ## Sacred Holding 1-1
 Held container for your journey in opening, deepening, exploring greater love, sexual expression, safety, trust, connection, pleasure, emotion, self-worth, personal power...
 
 Find out more about Sacred Holding Containers [here](https://somarosa.co.uk/offerings/sacred-holding/ "")
 {{< /image-section >}}
 
-{{< image-section left=true image="/img/page-banners/online-container.jpg" alt="" >}}
+
 ## Online 1-1
 
 Held Container online to empower your pleasure and support your nervous system. Working with Breathwork, Sound, Movement, Embodiment, Energy Alchemy to activate your sacred life force underpinned by Nervous System Regulation
 
-{{< /image-section >}}
 
 ## We journey into the body, observe what's there, move with what's alive... Then we let your body guide the way...
 
