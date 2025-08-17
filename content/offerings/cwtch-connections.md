@@ -1,11 +1,11 @@
 ---
-title: "Cwtch Connections"
+title: "Concious Connections"
 date: 2025-06-05
 draft: false
 featured: true
 weight: 1
 banner: cuddle-connections-banner.jpg
-description: Come for a Cwtch, and receive connection, love, safety, nourishment, oxytocin and SO much more that will only be understood once you experience it...
+description: Come for a Platonic connection, love, safety, nourishment, oxytocin and SO much more that will only be understood once you experience it... 
 ---
 
 ## Bring in more connection into your life
@@ -19,7 +19,7 @@ To express your needs and find a way they can be met?
 
 Nourishing touch & cuddles can feel scary with strangers, but we gently open to connection gentle step at a time at your own pace doing only what feels really nourishing for you
 
-This is a trauma-aware space as trained by Eshana Spiers, where we our regulating our nervous systems and you are held in your experience in what arises for you
+This is a trauma-informed space as trained by Rachel Rickards & Catherine Hale The Field & Culture of Care where there is a gentle pace supported by attunement, embodied listening and nervous system resourcing. 
 
 ## The Workshop
 
