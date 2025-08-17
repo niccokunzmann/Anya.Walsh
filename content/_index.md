@@ -11,7 +11,7 @@ Embodied enquiry of how YOUR sacred flow of life, your Eros, flows through you..
 
 {{< /image-section >}}
 
-{{< image-section left=false image="/img/homepage4.jpg" alt="" >}}
+{{< image-section left=false image="/img/embodiment2.jpg" alt="" >}}
 
 ## Embodiment
 
@@ -19,7 +19,7 @@ Dropping into your inner world, learning to listen to the body's subtle messages
 
 {{< /image-section >}}
 
-{{< image-section left=true image="/img/embodiment3.jpg" alt="" >}}
+{{< image-section left=true image="/img/homepage3.jpg" alt="" >}}
 
 ## Expression
 
