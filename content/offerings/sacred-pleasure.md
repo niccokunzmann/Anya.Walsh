@@ -62,11 +62,9 @@ Hands on healing for full activation of the 7 energy centres (chakras) along the
 
 ​
 
-Energetic Tantric Container
+Sacred Self Pleasure Container
 
-As above but without physical touch - guided with energetic touch to circulate your eros, and intuitively guiding your 
-
-rediscovery of your eros with your self touch, sound, breath, movement 
+Guided rediscovery and reclamation of your eros with your self touch, sound, breath, movement 
 
 60 minutes - £60
 
