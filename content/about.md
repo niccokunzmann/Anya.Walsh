@@ -24,16 +24,16 @@ The Field Trauma Informed Facilitator Training February - July 2025 (in progress
 
 Tantric Massage Diploma February - May 2025 
 
-Cuddle Facilitator Training (Training in Nervous system regulation, Polyvagal Theory, Child Developmental Trauma) with Eshana Spiers
+Cuddle Facilitator Training (Training in Nervous system regulation, Polyvagal Theory, Child Developmental Trauma) with Eshana Spiers July 2024
 
-Intimacy Education with Caffyn Jesse
+Intimacy Education with Caffyn Jesse February - June 2024
 
-Trained in Hatha Yoga, Pranayama, Yoga Nidra, Chakra yoga with Sivananda's 3rd generation disciple, Ashutosh
+Trained in Hatha Yoga, Pranayama, Yoga Nidra, Chakra yoga with Sivananda's 3rd generation disciple, Ashutosh. January - February 2020
 
-Sound Therapy with Elaine Thompson
+Sound Therapy with Elaine Thompson April 2022
 
-Star Reiki Levels 1 & 2 with Lindsay Fairbairn and Estelle Gillingham
+Star Reiki Levels 1 & 2 with Lindsay Fairbairn and Estelle Gillingham 2023
 
-Academy of Modern Tantra - Level 1 Breathwork, Trauma Release, Boundaries & Consent
+Academy of Modern Tantra - Level 1 Breathwork, Trauma Release, Boundaries & Consent 2024
 
 amongst many many more wonderful teachers and Mystery Schools that have fed into my life journey.
