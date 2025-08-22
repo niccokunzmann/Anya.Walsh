@@ -30,7 +30,7 @@ Each container is unique, because each person and their journey is different. Ea
 
 When we are truly tuned into our eros, our life force, we are truly in tune with ourselves, all that we are, and all of life. It is the full embrace of our sexuality, and as innately sexual beings, we are made of sex. Sex is our life force that runs through the entirety of our being. To suppress it, shame it, is to suppress all of who we are.
 
-Find out more about our Sacred Pleasure Containers [here](https://somarosa.co.uk/offerings/sacred-holding/ "")
+Find out more about our Sacred Pleasure Containers [here](https://somarosa.co.uk/offerings/sacred-pleasure/ "")
 {{< /image-section >}}
 
 {{< image-section left=false image="/img/homepage-1.jpg" alt="" >}}
